@@ -1,0 +1,33 @@
+{
+  "name": "Howe's World",
+  "description": "Welcome to my blog. I will share something of my life here.",
+  "url": "https://eleventyduo.netlify.app",
+  "author": {
+    "name": "Howe Huang",
+    "email": "shihuihzh@qq.com",
+    "twitterHandle": ""
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+  ],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": true
+}
