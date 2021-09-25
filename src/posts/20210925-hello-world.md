@@ -1,7 +1,8 @@
 ---
 title: 你好世界
+slug: hello
 description: 
-permalink: posts/{{ title | slug }}/index.html
+permalink: posts/{{ slug }}/index.html
 date: '2021-09-25'
 tags: [code]
 ---
